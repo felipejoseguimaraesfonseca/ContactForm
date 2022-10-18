@@ -1,3 +1,11 @@
 .subject, .name, .email, .message {
     font-weight: bold;
 }
+
+#inputButtonSubmit {
+    margin-left: 1px;
+}
+
+#inputButtonReset {
+    margin-left: 3px;
+}
